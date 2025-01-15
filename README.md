@@ -99,6 +99,27 @@ The primary goal of this project is to create a functional and efficient tool fo
    - Launch the application locally or share it through a public URL.
 
 ---
+# Sample View of the Gradio Application
+
+Below is a visual representation of the Gradio interface for this project:
+
+![Gradio Application Example](https://github.com/user-attachments/assets/2e2aae61-c0b6-444d-ae12-0d335f1d83f4)
+
+Below is a visual representation of the "Ham" classification:
+
+![Gradio Application "Ham" Classification Example](https://github.com/user-attachments/assets/33a48174-3b7c-418e-abc8-90572c28113b)
+
+Below is a visual representation of the "Spam" classification:
+
+![Gradio Application "Spam" Classification Example](https://github.com/user-attachments/assets/eb79395f-8d5a-4908-9baa-88903dcbc097)
+
+
+### Application Features:
+- **Input Box**: A textbox where users can enter an SMS message for classification.
+- **Output Box**: A textbox that displays the classification result as either "Spam" or "Ham" (not spam).
+- **User-Friendly Labels**: Clear labels guide the user on where to enter their message and view results.
+
+---
 
 ## Potential Future Applications and Enhancements
 
