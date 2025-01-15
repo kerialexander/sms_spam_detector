@@ -139,4 +139,6 @@ Below is a visual representation of the "Spam" classification:
    Build an analytics dashboard to display classification metrics and insights about user-submitted messages.
 
 ---
+## Resources
 
+I worked with the tutor to address a few minor issues with the code including setting the stopwords to English and modifying the index.
